@@ -1,0 +1,44 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	padding: 3rem;
+	font-size: 1.125rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+}
+
+h1 {
+	font-size: 3rem;
+	font-weight: bolder;
+	margin-bottom: 1rem;
+}
+
+box {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+divleft {
+	font-size: 2rem;
+	font-weight: bolder;
+	color: #FCD0A1;
+}
+
+divright {
+	font-size: 2rem;
+	font-weight: bolder;
+	color: #1E2A4E;
+}
+
+ascore{
+	font-size: 2rem;
+	font-weight: bolder;
+	color: black;
+}
+
+jscore{
+	font-size: 2rem;
+	font-weight: bolder;
+	color: black;
+}
