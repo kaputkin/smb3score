@@ -35,10 +35,12 @@ ascore{
 	font-size: 2rem;
 	font-weight: bolder;
 	color: black;
+	transition: all 1925ms ease-in-out;
 }
 
 jscore{
 	font-size: 2rem;
 	font-weight: bolder;
 	color: black;
+	transition: all 1925ms ease-in-out;
 }
